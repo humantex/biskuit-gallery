@@ -1,6 +1,9 @@
 # Gallery Extension for Biskuit CMS
 [![StyleCI](https://github.styleci.io/repos/288880037/shield?branch=master)](https://github.styleci.io/repos/288880037?branch=master)
 
+## NOTE: This extension is in the early stages of setup and code review for any/all compatability updates for using Vue 2, and UIKit 3.
+### No new pakages will be released until a beta feature set of these updates are in place for public testing.
+
 gallery-extension for https://biskuit.org/
 
 - Create galleries for your Biskuit CMS
