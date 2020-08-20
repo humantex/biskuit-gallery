@@ -14,6 +14,6 @@ gallery-extension for https://biskuit.org/
 
 Thanks to Stefan Himpler, the author and primary developer of the Pagekit Gallery extension, for his original work and the basis for this project
 
-thanks to pierzo for the original Polish translation
+Thanks to pierzo for the original Polish translation
 
-thanks to kroozo for the original Hungarian translation
+Thanks to kroozo for the original Hungarian translation
