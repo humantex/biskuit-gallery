@@ -41,20 +41,20 @@ class GalleryController
     {
         try {
             if (!$gallery = Gallery::where(compact('id'))->related('user', 'images')->first()) {
-                  if ($id) {
-                      App::abort(404, __('Invalid gallery id'));
-                  }
+                if ($id) {
+                    App::abort(404, __('Invalid gallery id'));
+                }
 
-                  $gallery = Gallery::create([
-                      'user_id' => App::user()->id,
-                      'date'    => new \DateTime(),
-                      'status'  => Gallery::STATUS_DRAFT,
-                  ]);
+                $gallery = Gallery::create([
+                    'user_id' => App::user()->id,
+                    'date'    => new \DateTime(),
+                    'status'  => Gallery::STATUS_DRAFT,
+                ]);
             }
 
             $user = App::user();
             if (!$user->hasAccess('gallery: manage all galleries') && $gallery->user_id !== $user->id) {
-                  App::abort(403, __('Insufficient User Rights.'));
+                App::abort(403, __('Insufficient User Rights.'));
             }
 
             $roles = App::db()->createQueryBuilder()
