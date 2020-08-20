@@ -4,7 +4,7 @@
 ## NOTE: This extension is in the early stages of setup and code review for any/all compatability updates for using Vue 2, and UIKit 3.
 ### No new packages will be released until a beta feature set of these updates are in place for public testing.
 
-gallery-extension for https://biskuit.org/
+A gallery extension for https://biskuit.org/
 
 - Create galleries for your Biskuit CMS
 - Auto image resizing and auto thumbnails
@@ -15,7 +15,7 @@ gallery-extension for https://biskuit.org/
 ## requirements
 - PHP GD extension
 
-Thanks to Stefan Himpler, the author and primary developer of the Pagekit Gallery extension, for his original work and the basis for this project
+Thanks to Stefan Himpler, the author and primary developer of the Pagekit Gallery extension, for his original code work, and the basis for this project
 
 Thanks to pierzo for the original Polish translation
 
