@@ -1,5 +1,5 @@
 # Gallery Extension for Biskuit CMS
-[![StyleCI](https://styleci.io/repos/65122978/shield?branch=master)](https://styleci.io/repos/65122978)
+[![StyleCI](https://github.styleci.io/repos/288880037/shield?branch=master)](https://github.styleci.io/repos/288880037?branch=master)
 
 gallery-extension for https://biskuit.org/
 
