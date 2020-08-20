@@ -10,7 +10,7 @@ A gallery extension for https://biskuit.org/
 - Auto image resizing and auto thumbnails
 - Easy image uploading with drag and drop
 - Uses uikit-lightbox at the frontend
-- Include slideshows in your blog post or site content with shortcodes -> simply use the button at the editor
+- Include slideshows in your blog post or site content with shortcodes -> simply use the insert button in the content editor
 
 ## requirements
 - PHP GD extension
