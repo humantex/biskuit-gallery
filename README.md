@@ -15,8 +15,8 @@ A gallery extension for https://biskuit.org/
 ## requirements
 - PHP GD extension
 
-Thanks to Stefan Himpler, the author and primary developer of the Pagekit Gallery extension, for his original code work, and the basis for this project
+Thanks to Stefan Himpler ( @stfnhmplr ) as the author and primary developer of the Pagekit-Gallery extension. With his kind permission, his original code is the basis for this project, and 'Gallery' can now be adapted and updated for use in Biskuit CMS.
 
-Thanks to pierzo for the original Polish translation
+Thanks to @pierzo for the original Polish translation.
 
-Thanks to kroozo for the original Hungarian translation
+Thanks to @kroozo for the original Hungarian translation
